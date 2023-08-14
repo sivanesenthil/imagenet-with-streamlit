@@ -18,5 +18,5 @@ This is a simple Streamlit web application that uses a pre-trained ResNet-50 mod
 
 
 
- ##LOGIN 
+## LOGIN PAGE
  -login page is added to the imagenet model
